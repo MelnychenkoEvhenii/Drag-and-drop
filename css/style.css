@@ -1,0 +1,35 @@
+
+#sortable1, #sortable2 {
+	padding: 10px 0 5px 10px;
+    border: 2px solid #ccc;
+    width: 150px;
+    min-height: 60px;
+    float: left;
+    font-size: 1.5em;
+    color: white;
+}
+  
+#sortable2 {
+	margin-left: 100px;
+	padding-left: 20px;
+}
+  
+#sortable1 div, #sortable2 div {
+    margin: 0 5px 5px 5px;
+    width: 120px;
+    text-align: center;
+}
+  
+.blocks {
+  	width: 50px;
+  	height: 50px;
+}
+
+#blockStatistic {
+	margin: -44px 0 0 520px;
+}
+
+span {
+	font-weight: bolder;
+	font-size: 20px;
+}
